@@ -1,0 +1,15 @@
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.csproj.AssemblyReference.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.AssemblyInfoInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.AssemblyInfo.cs
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.exe
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.deps.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.runtimeconfig.json
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\bin\Debug\net6.0\Wizard-Ninja-Samurai.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\refint\Wizard-Ninja-Samurai.dll
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.pdb
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\Wizard-Ninja-Samurai.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\3.C#-Fundamentals\Wizard-Ninja-Samurai\obj\Debug\net6.0\ref\Wizard-Ninja-Samurai.dll
